@@ -1,0 +1,112 @@
+==========================================
+SLURM_JOB_ID = 162458
+SLURM_NODELIST = node03
+==========================================
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> Loading data...
+>> >> >> >> >> Estimating initial parameters...
+>> [Warning: Maximum number of trials reached. Consider increasing the maximum
+distance or decreasing the desired confidence.] 
+[> In vision.internal.ransac.msac (line 117)
+  In estimateWorldCameraPose (line 141)
+  In estimateParameters (line 56)] 
+[Warning: Maximum number of trials reached. Consider increasing the maximum
+distance or decreasing the desired confidence.] 
+[> In vision.internal.ransac.msac (line 117)
+  In estimateWorldCameraPose (line 141)
+  In estimateParameters (line 56)] 
+[Warning: Maximum number of trials reached. Consider increasing the maximum
+distance or decreasing the desired confidence.] 
+[> In vision.internal.ransac.msac (line 117)
+  In estimateWorldCameraPose (line 141)
+  In estimateParameters (line 56)] 
+[Warning: Maximum number of trials reached. Consider increasing the maximum
+distance or decreasing the desired confidence.] 
+[> In vision.internal.ransac.msac (line 117)
+  In estimateWorldCameraPose (line 141)
+  In estimateParameters (line 56)] 
+[Warning: Maximum number of trials reached. Consider increasing the maximum
+distance or decreasing the desired confidence.] 
+[> In vision.internal.ransac.msac (line 117)
+  In estimateWorldCameraPose (line 141)
+  In estimateParameters (line 56)] 
+[Warning: Maximum number of trials reached. Consider increasing the maximum
+distance or decreasing the desired confidence.] 
+[> In vision.internal.ransac.msac (line 117)
+  In estimateWorldCameraPose (line 141)
+  In estimateParameters (line 56)] 
+[Warning: Maximum number of trials reached. Consider increasing the maximum
+distance or decreasing the desired confidence.] 
+[> In vision.internal.ransac.msac (line 117)
+  In estimateWorldCameraPose (line 141)
+  In estimateParameters (line 56)] 
+>> >> >> >> >> >> >> >> >> >> >> >> >> Starting BA...
+>> Method : Lavenberg
+*Tip: Wise decision*
+Method : Squared error (Gaussian Noise assumption)
+*Tip: Either you are stupid or You are so confident about feature matches*
+>> Iteration: 1   Cost value is 33657397440.3959
+Iteration: 2   Cost value is 8718083102.9182
+Iteration: 3   Cost value is 2577142059.8059
+Iteration: 4   Cost value is 1086508439.1356
+Iteration: 5   Cost value is 625846870.8731
+Iteration: 6   Cost value is 564459359.1675
+Iteration: 7   Cost value is 429377976.8037
+Iteration: 8   Cost value is 395457034.5374
+Iteration: 9   Cost value is 381787187.8647
+Iteration: 10   Cost value is 369875570.3469
+Iteration: 11   Cost value is 342847403.6734
+Iteration: 12   Cost value is 246736483.8616
+Iteration: 13   Cost value is 141412693.0573
+Iteration: 14   Cost value is 112715490.1614
+Iteration: 15   Cost value is 108494212.9045
+Iteration: 16   Cost value is 108311907.3839
+Iteration: 17   Cost value is 107147774.4095
+Iteration: 18   Cost value is 106767777.3987
+Iteration: 19   Cost value is 105178832.8617
+Iteration: 20   Cost value is 104780067.9388
+Iteration: 21   Cost value is 104519672.5766
+Iteration: 22   Cost value is 103123474.1455
+Iteration: 23   Cost value is 95011425.6892
+Iteration: 24   Cost value is 68898059.4225
+Iteration: 25   Cost value is 59810189.4942
+Iteration: 26   Cost value is 58940655.054
+Iteration: 27   Cost value is 58115229.4653
+Iteration: 28   Cost value is 54997343.3088
+Iteration: 29   Cost value is 52232835.6885
+Iteration: 30   Cost value is 50502641.8979
+Iteration: 31   Cost value is 49252359.0062
+Iteration: 32   Cost value is 48345466.6416
+Iteration: 33   Cost value is 47654142.7212
+Iteration: 34   Cost value is 47200278.9419
+Iteration: 35   Cost value is 46344452.36
+Iteration: 36   Cost value is 45021055.207
+Iteration: 37   Cost value is 43915257.7165
+Iteration: 38   Cost value is 43153409.6676
+Iteration: 39   Cost value is 42597989.3991
+Iteration: 40   Cost value is 42161314.2599
+Iteration: 41   Cost value is 41778251.9033
+Iteration: 42   Cost value is 41737920.531
+Iteration: 43   Cost value is 41701041.6268
+Iteration: 44   Cost value is 41372081.654
+Iteration: 45   Cost value is 41365128.1175
+Iteration: 46   Cost value is 39163301.1202
+Iteration: 47   Cost value is 37798053.0481
+Iteration: 48   Cost value is 37364059.6917
+Iteration: 49   Cost value is 35535635.8218
+Iteration: 50   Cost value is 35460234.3542
+>> >> >> Chill down... done
+>> >> [Warning: MATLAB has disabled some advanced graphics rendering features by
+switching to software OpenGL. For more information, click <a
+href="matlab:opengl('problems')">here</a>.] 
+>> >> >> >> >> >> >> >> >> >> 
